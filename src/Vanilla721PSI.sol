@@ -1,4 +1,4 @@
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.10;
 
 import "erc721psi/contracts/ERC721Psi.sol";
 

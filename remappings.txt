@@ -1,6 +1,6 @@
+solidity-bits/=lib/solidity-bits/
 openzeppelin-contracts/=lib/openzeppelin-contracts/
 @openzeppelin/=lib/openzeppelin-contracts/
 @chiru=lib/ERC721A/contracts
 @wallst=lib/gas-optimization
 erc721psi=lib/ERC721Psi
-solidity-bits=lib/solidity-bits/Stuff
