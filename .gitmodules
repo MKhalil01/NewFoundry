@@ -9,9 +9,6 @@
 	path = lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
 	branch = v4.8.2
-[submodule "lib/solidity-bits"]
-	path = lib/solidity-bits
-	url = https://github.com/MKhalil01/solidity-bits
 [submodule "lib/ERC721Psi"]
 	path = lib/ERC721Psi
 	url = https://github.com/estarriolvetch/ERC721Psi
