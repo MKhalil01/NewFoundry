@@ -9,3 +9,7 @@
 [submodule "lib/gas-optimization"]
 	path = lib/gas-optimization
 	url = https://github.com/WallStFam/gas-optimization
+[submodule "lib/ERC721Psi"]
+	path = lib/ERC721Psi
+	url = https://github.com/estarriolvetch/ERC721Psi
+	branch = v0.7.0
