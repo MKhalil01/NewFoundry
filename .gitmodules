@@ -6,3 +6,6 @@
 	path = lib/solidity-bits
 	url = https://github.com/estarriolvetch/solidity-bits
 	branch = v0.4.0
+[submodule "lib/gas-optimization"]
+	path = lib/gas-optimization
+	url = https://github.com/WallStFam/gas-optimization
