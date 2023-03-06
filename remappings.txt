@@ -3,4 +3,4 @@ openzeppelin-contracts/=lib/openzeppelin-contracts/
 @chiru=lib/ERC721A/contracts
 @wallst=lib/gas-optimization
 erc721psi=lib/ERC721Psi
-@soliditybits=lib/solidity-bits/
+solidity-bits=lib/solidity-bits/contracts
